@@ -1,4 +1,4 @@
-# Analysis of Reddit Post Features (Across 3 Subreddits
+# Analysis of Reddit Post Features (Across 3 Subreddits)
 ### Published By: Ronak Thakur
 ### Publish Date: 12/20/2021
 
